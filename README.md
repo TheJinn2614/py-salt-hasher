@@ -1,0 +1,1 @@
+# py-salt-hasher
